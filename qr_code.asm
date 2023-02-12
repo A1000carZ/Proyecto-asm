@@ -1,215 +1,162 @@
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
@@ -3754,251 +3701,189 @@ int 21h    ; fin 27 fila
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio 
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio 
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR 
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,0DBh
 mov ah,2
 int 21h    ; Cuadro 3 QR
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,020h
 mov ah,2
 int 21h    ; espacio
-
 mov dl,0FEh
 mov ah,2
 int 21h    ; cuadro
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
-
 mov dl,00Ah
 mov ah,2
 int 21h    ; fin
-
 mov dl,00Dh
 mov ah,2
 int 21h    ; fin linea
